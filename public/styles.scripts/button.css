@@ -1,0 +1,128 @@
+.button {
+    size: 50px;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#w {
+    font-size: xx-large;
+}
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.shadow:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.blue {
+    background-color: white;
+    color: black;
+}
+
+.blue:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.green {
+    background-color: white;
+    color: black;
+}
+
+.green:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.red {
+    background-color: white;
+    color: black;
+}
+
+.red:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.black {
+    background-color: white;
+    color: black;
+}
+
+.black:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.grey {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.grey:hover {
+    background-color: #e7e7e7;
+}
+
+
+/*what please*/
+
+.rblue {
+    background-color: #008CBA;
+    color: white;
+}
+
+.rblue:hover {
+    background-color: white;
+    color: black;
+}
+
+.rgreen {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.rgreen:hover {
+    background-color: white;
+    color: black;
+}
+
+.rred {
+    background-color: #f44336;
+    color: white;
+}
+
+.rred:hover {
+    background-color: white;
+    color: black;
+}
+
+.rblack {
+    background-color: #555555;
+    color: white;
+}
+
+.rblack:hover {
+    background-color: white;
+    color: black;
+}
+
+.rgrey {
+    background-color: #b8b8b8;
+    color: black;
+}
+
+.rgrey:hover {
+    background-color: white;
+    border: 2px solid #b8b8b8;
+}
